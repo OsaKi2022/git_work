@@ -1,1 +1,2 @@
 "Fully master Git, Java and learn to write programs" 
+"Learn other programming languages such as C++, Python and others" 
